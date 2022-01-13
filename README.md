@@ -55,7 +55,20 @@ A proud achievement of mine is the 'e-orders' ordering system that I developed. 
 
 ### **Tech Used: Flask, Bokeh, MySQL, React Native**
 
-### **Screen Shots: TODO**
+### **Screen Shots**
+<p float="left">
+
+  <img src="./mobileapps/eorders/screenshots/image1.jpg" width="100" />
+  <img src="./mobileapps/eorders/screenshots/image2.jpg" width="100" />
+  <img src="./mobileapps/eorders/screenshots/image3.jpg" width="100" />
+  <img src="./mobileapps/eorders/screenshots/image4.jpg" width="100" />
+  <img src="./mobileapps/eorders/screenshots/image5.jpg" width="100" />
+  <img src="./mobileapps/eorders/screenshots/image6.jpg" width="100" />
+  <img src="./mobileapps/eorders/screenshots/image7.jpg" width="100" />
+  <img src="./mobileapps/eorders/screenshots/image8.jpg" width="100" />
+  <img src="./mobileapps/eorders/screenshots/image9.jpg" width="100" />
+  <img src="./mobileapps/eorders/screenshots/image10.jpg" width="100" />
+</p>
 
 ## epoptis
 
